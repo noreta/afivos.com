@@ -7,24 +7,73 @@
     <meta http-equiv="refresh" content="10; url=/">
   {% endif %}
 
-  <title>{% if page.title %}{{ page.title }} &#124; {% endif %}{{ site.title }}</title>
+  <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  <link rel="apple-touch-icon" href="apple-touch-icon.png">
-  <link rel="shortcut icon" href="favicon.ico">
+  <link rel="apple-touch-icon" href="https://noreta.github.io/apple-touch-icon.png">
+  <link rel="shortcut icon" href="https://noreta.github.io/favicon.ico">
 
-  <script src="//use.typekit.net/vtk4yjw.js"></script>
-  <script>try{Typekit.load();}catch(e){}</script>
+  <script src="https://use.typekit.net/plx8dhj.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link href="//css/prism.css" rel="stylesheet" />
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
   <script src="{{ "/assets/js/scripts.js" | prepend: site.baseurl }}"></script>
 
   <!-- http://terrymun.github.io/Fluidbox/ -->
   <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-throttle-debounce/1.1/jquery.ba-throttle-debounce.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/fluidbox/2.0.0/js/jquery.fluidbox.min.js"></script>
+
+<style>
+code, tt {
+    padding: 1px 3px;
+    font-family: Inconsolata, monospace, sans-serif;
+    font-size: 0.85em;
+    white-space: pre-wrap;
+    border: #E3EDF3 0px solid;
+    background: #F7FAFB;
+    border-radius: 2px;
+    -webkit-font-feature-settings: "liga" 0;
+    -moz-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+}
+
+pre {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0 0 1.75em 0;
+    border: #E3EDF3 0px solid;
+    width: 100%;
+    padding: 10px;
+    font-family: Inconsolata, monospace, sans-serif;
+    font-size: 0.9em;
+    white-space: pre;
+    overflow: auto;
+    background: #F7FAFB;
+    border-radius: 3px;
+}
+
+pre code, pre tt {
+    font-size: inherit;
+    white-space: pre-wrap;
+    background: transparent;
+    border: none;
+    padding: 0;
+}
+
+.separator {
+  height: 5px;
+  width: 63px;
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  background: url(/images/separator.png) repeat-x 0 0;
+    border: 0;
+}
+
+</style>
 </head>
