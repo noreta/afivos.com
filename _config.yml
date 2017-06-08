@@ -1,20 +1,20 @@
 # Site settings
-name: Fivos Avgerinos
-email: afivos@me.com
-url: "https://noreta.github.io/" # the base hostname & protocol for your site
-description: > # this means to ignore newlines until "baseurl:"
-  My name is Fivos and I'm a young designer from Athens, Greece.
-title: "Fivos Avgerinos, Designer"
-baseurl: "" # the subpath of your site, e.g. /blog/
+name: Noreta Agus Sasono
+email: noreta@sasono.web.id
+url: "http://page.sasono.web.id" # the base hostname & protocol for your site
+description: Though, stories, and ideas. # this means to ignore newlines until "baseurl:"
+  
+title: "Noreta Agus Sasono"
+baseurl:  # the subpath of your site, e.g. 
 
 gems:
   - octopress-autoprefixer
 
 # Social
-twitter: afivos
-dribbble: afivos
-instagram: afivos
-github: afivos
+twitter: norsasono
+dribbble: norsasono
+instagram: norsasono
+github: norsasono
 
 # Build settings
 markdown: kramdown
@@ -23,7 +23,7 @@ markdown: kramdown
 port: 4000
 host: 0.0.0.0
 
-permalink: pretty
+permalink: /:year/:month/:day/:title/
 
 sass:
     style: :compressed
