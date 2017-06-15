@@ -9,6 +9,8 @@ tags:
 - en
 ---
 
+![Ghost](/images/2016/12/ghost.png)
+
 First. Let me tell you that it is just another update and I wouldn't explain the new features as they have been explained [here](https://dev.ghost.org/) in every developer blog post. Just go and read it.
 
 Second. I also try to explain it briefly as I assume that you have read the others posts I wrote before [here](https://blog.sasono.web.id/2016/08/02/update-ghost-0-9-0-using-openshift-quickstart/) and [here](https://blog.sasono.web.id/2016/06/04/update-ghost-0-8-0-using-openshift-quickstart/).

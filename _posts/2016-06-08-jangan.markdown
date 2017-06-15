@@ -1,0 +1,15 @@
+---
+layout: post
+category: blog
+title: Jangan
+date: '2016-06-08 08:27:53'
+tags:
+- personal
+---
+
+***
+<blockquote class="pullquote">  
+  <p>“Jangan jatuh cinta pada pikiranku, karena mereka masih belum cukup dewasa dalam berkomitmen. Jangan jatuh cinta pada senyumku, karena mereka masih sering memalsukan diri. Jangan jatuh cinta karena tubuhku, wajahku, dan apa yang mampu kau lihat dari diriku. Karena mereka akan hancur dimakan waktu.”</p>
+</blockquote>
+***
+[^1]: **Arhatya Sinatya**: (Kita dan Keberuntungan) [Link](http://sinatya.tumblr.com/post/145540555673/jangan-jatuh-cinta-pada-pikiranku-karena-mereka)

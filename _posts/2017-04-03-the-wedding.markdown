@@ -11,6 +11,6 @@ category: blog
 
 > Coz our new life will begin soon.
 
-![](https://i2.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/Invitation.jpg)
+![](/images/2017/04/invitation.jpg)
 
 <center>[http://selfinoreta.info](http://selfinoreta.info)</center>
