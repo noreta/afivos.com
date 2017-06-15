@@ -1,7 +1,7 @@
 # Site settings
 name: Noreta Agus Sasono
 email: noreta@sasono.web.id
-url: "http://page.sasono.web.id" # the base hostname & protocol for your site
+url: "https://blog-b4aae.firebaseapp.com" # the base hostname & protocol for your site
 description: Though, stories, and ideas. # this means to ignore newlines until "baseurl:"
   
 title: "Noreta Agus Sasono"
