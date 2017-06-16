@@ -17,7 +17,7 @@ Sudahkan tahukan Anda dengan program PANDI (Pengelola Nama Domain Indonesia) ter
 ![](/images/2017/04/PANDI-e.id_-e1492795022378.png)
 
 
-# How Does It Works?
+# How Does It Work?
 Seperti yang tertulis di halaman awal [demo.e.id](http://demo.e.id).
 
 >Mari bergabung di revolusi Identitas Digital Indonesia.
