@@ -4,10 +4,10 @@ title:  "Tak Cukup Hanya “Incognito”"
 date:   2017-06-17 18:00:50 +0700
 category: blog
 tags:
--Computer
--Internet
--Info
--Tutorial
+- Computer
+- Internet
+- Info
+- Tutorial
 ---
 
 > Because there’s no place like 127.0.0.1
