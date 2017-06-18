@@ -6,9 +6,10 @@ title: Blog
   {% for post in site.categories.blog %}
     <li>
     	<a href="{{ post.url | prepend: site.baseurl }}">
-			<h1 class="post__title">{{ post.title }}</h1>
+			<h1 class="post__title" style="font-weight: bold">{{ post.title }}</h1>
 			<h2 class="post__headline">{{ post.date | date: "%b %-d, %Y" }}</h2>
     	</a>
+<hr>
     </li>
   {% endfor %}
 </ul>
