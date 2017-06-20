@@ -27,3 +27,11 @@ permalink: /:year/:month/:day/:title/
 
 sass:
     style: :compressed
+
+collections:
+  - works
+
+collections:
+  works:
+    output: true
+    permalink: /works/:title/
