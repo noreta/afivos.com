@@ -9,6 +9,7 @@ baseurl:  # the subpath of your site, e.g.
 
 gems:
   - octopress-autoprefixer
+  - jekyll-sitemap
 
 # Social
 twitter: norsasono
