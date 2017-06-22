@@ -11,7 +11,7 @@
 				{% capture location %}{{ page.url | remove_first:'/' | split:'/' | first }}{% endcapture %}
 				<ul class="list-inline">
 					<li><a {% if location == '' %}class="active" {% endif %} href="{{ site.baseurl }}/">Home</a></li>
-					<li><a {% if location == 'blog' %}class="active" {% endif %} {% if location == 'blog' %}class="active" {% endif %} href="https://noreta.github.io/blog">Blog</a></li>
+					<li><a {% if location == 'blog' %}class="active" {% endif %} {% if location == 'blog' %}class="active" {% endif %} href="{{ site.baseurl }}/blog">Blog</a></li>
 					<li><a {% if location == 'works' %}class="active" {% endif %}href="{{ site.baseurl }}/works">Works</a></li>
 				</ul>
 			</div>
