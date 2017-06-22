@@ -1,7 +1,5 @@
 {
   "projects": {
-    "github": "blog-b4aae",
     "default": "sasono-bc9e2",
-    "sasono": "sasono-bc9e2"
   }
 }
