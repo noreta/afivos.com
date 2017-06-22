@@ -10,6 +10,11 @@
   <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
+  <script>
+	if (!(window.location.host.startsWith("127.0.0.1") || window.location.host.startsWith("localhost")) && (window.location.protocol != "https:"))
+    window.location.protocol = "https";
+  </script>
+
   <meta name="google-site-verification" content="NRpxVoWRZkbPGAj8UQNzER1UEPDUgu4_8J9HFUUXWjQ" />
 
   <link rel="apple-touch-icon" href="https://noreta.github.io/apple-touch-icon.png">
