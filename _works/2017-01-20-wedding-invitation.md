@@ -11,7 +11,9 @@ website_url:    https://selfinoreta.info/
 website_name:   selfinoreta.info
 ---
 
-Sebagai hasil dari keputusan singkat saya bersama istri saya beberapa bulan sebelum hari pernikahan, kami memutuskan untuk membuat sebuah halaman online yang nantinya akan kami gunakan sebagai undangan versi digital. Alasan sederhana di baliknya adalah untuk mempermudah para undangan -terutama sahabat saya- yang akan datang dari Ngawi, karena lokasi resepsi memang cukup membinggungkan untuk dapat  dijangkau. 
+Sebagai hasil dari keputusan singkat saya bersama istri saya beberapa bulan sebelum hari pernikahan, kami memutuskan untuk membuat sebuah halaman online yang nantinya akan kami gunakan sebagai undangan versi digital.
+
+Alasan sederhana di baliknya adalah untuk mempermudah para undangan -terutama sahabat saya- yang akan datang dari Ngawi, karena lokasi resepsi memang cukup membinggungkan untuk dapat  dijangkau. 
 
 <figure class="imgfull"><a href="/images/works/wedding/home.png"><img src="/images/works/wedding/home.png" /></a></figure>
 
