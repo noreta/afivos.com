@@ -8,7 +8,7 @@ date:       2017-01-20
 preview:    /images/works/wedding/home.png
 
 website_url:    http://nikah.sasono.web.id
-website_name:   <s>selfinoreta.info</s> nikah.sasono.web.id
+website_name:   nikah.sasono.web.id
 ---
 
 Sebagai hasil dari keputusan singkat saya bersama istri saya beberapa bulan sebelum hari pernikahan, kami memutuskan untuk membuat sebuah halaman online yang nantinya akan kami gunakan sebagai undangan versi digital.
