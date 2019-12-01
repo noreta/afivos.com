@@ -17,4 +17,4 @@ website_name:   https://successjaya.com
 <figure class="imgfull"><a href="/images/works/sjg/sjg-tablet.png"><img src="/images/works/sjg/sjg-tablet.png" /></a></figure>
 <figure class="imgfull"><a href="/images/works/sjg/sjg-phone.png"><img src="/images/works/sjg/sjg-phone.png" /></a></figure>
 
-Development website menggunakan CMS Wordpress untuk mempermudah dalam pembaruan konten ataupun revisi. Namun versi daring telah dikonversi sepenuhnya menjadi versi statis untuk meningkatkan keamanan, reliabilitas, serta kecepatan akses.
+Development website menggunakan Wordpress sebagai CMS (Content Management System) untuk mempermudah dalam pembaruan konten ataupun revisi. Namun versi daring telah dikonversi sepenuhnya menjadi versi statis untuk meningkatkan keamanan, reliabilitas, serta kecepatan akses.
