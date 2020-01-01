@@ -21,7 +21,7 @@ Alasan sederhana di baliknya adalah untuk mempermudah kami dalam menjangkau tema
 
 Saya berkolaborai dengan [Nobayuke](https://instagram.com/nobayuke_studio) untuk pembuatan halaman cerita yang berisi perjalanan singkat saya bersama istri dari mulai pertemuan hingga proses lamaran.
 
-<figure class="imgfull"><a href="http://nikah.sasono.web.id/images/story.jpg"><img src="http://nikah.sasono.web.id/images/story.jpg" /></a></figure>
+<figure class="imgfull"><a href="/images/works/wedding/story.jpg"><img src="/images/works/wedding/story.jpg" /></a></figure>
 
 <figure class="imgfull"><a href="/images/works/wedding/guest-book.png"><img src="/images/works/wedding/guest-book.png" /></a></figure>
 

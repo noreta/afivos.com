@@ -4,7 +4,7 @@ category:   project
 
 title:      Success Jaya Group
 headline:   Company website of Success Jaya Group.
-date:       2017-01-20
+date:       2018-12-28
 preview:    /images/works/sjg/sjg-hero.png
 
 website_url:    https://successjaya.com
@@ -17,4 +17,4 @@ website_name:   https://successjaya.com
 <figure class="imgfull"><a href="/images/works/sjg/sjg-tablet.png"><img src="/images/works/sjg/sjg-tablet.png" /></a></figure>
 <figure class="imgfull"><a href="/images/works/sjg/sjg-phone.png"><img src="/images/works/sjg/sjg-phone.png" /></a></figure>
 
-Development website menggunakan CMS Wordpress untuk mempermudah dalam pembaruan konten ataupun revisi. Namun versi daring telah dikonversi sepenuhnya menjadi versi statis untuk meningkatkan keamanan, reliabilitas, serta kecepatan akses.
+Development website menggunakan Wordpress sebagai CMS (Content Management System) untuk mempermudah dalam pembaruan konten ataupun revisi. Namun versi daring telah dikonversi sepenuhnya menjadi versi statis untuk meningkatkan keamanan, reliabilitas, serta kecepatan akses.

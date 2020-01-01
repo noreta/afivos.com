@@ -3,14 +3,20 @@ name: Noreta Agus Sasono
 email: noreta@sasono.web.id
 url: "https://sasono.web.id" # the base hostname & protocol for your site
 enforce_ssl: sasono.web.id
-description: Noreta Agus Sasono; Desainer, fotografer. # this means to ignore newlines until "baseurl:"
+description: Portfolio of Noreta Agus Sasono; Graphic & Web Desainer. # this means to ignore newlines until "baseurl:"
   
 title: "Noreta Agus Sasono"
+tagline : Graphic & Web Designer
 baseurl:  # the subpath of your site, e.g. 
 
-gems:
+plugins:
   - octopress-autoprefixer
   - jekyll-sitemap
+  - jekyll-seo-tag
+
+twitter:
+  username: norsasono
+  card: summary
 
 # Social
 twitter: norsasono

@@ -4,20 +4,10 @@
   },
   "hosting": {
     "public": "_site",
-    "ignore": ["firebase.json"],
-    // Cache the headers for a month
-    "headers": [{
-         "source" : "**/*.@(eot|otf|ttf|ttc|woff|font|css|js|jpg|jpeg|gif|png|mp4|webm|ogg)",
-         "headers": [{
-            "key" : "Cache-Control",
-            "value" : "max-age=2628000"
-         }]
-      }],
-    "rewrites": [
-      {
-        "source": "**",
-        "destination": "/index.html"
-      }
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
     ]
   }
 }
